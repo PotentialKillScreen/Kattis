@@ -1,5 +1,5 @@
 //Author: Axel Ahlqvist
-//Problem: 2.3 Single source shortest path, negative weights
+//Problem: Single source shortest path, negative weights
 //Finding the shortest path in a graph where negative weights and cycles occur.
 //Algorithm: Bellman-Ford
 //Time complexity: O(m*n)) 
