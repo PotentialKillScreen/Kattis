@@ -1,5 +1,5 @@
 //Author: Axel Ahlqvist
-//Problem: 3.5 Modular arithmetic 
+//Problem: Modular arithmetic 
 //Implements arithmetic modulo n 
 #include<bits/stdc++.h>
 
