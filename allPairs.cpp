@@ -1,5 +1,5 @@
 //Author: Axel Ahlqvist
-//Problem: 2.4 All Pairs Shortest Path
+//Problem: All Pairs Shortest Path
 //Algorithm: Floyd-Warshalls algorithm
 //Time complexity: O(N^3) Where N is the number of vertices. 
 
