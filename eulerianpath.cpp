@@ -1,5 +1,5 @@
 //Author: Axel Ahlqvist
-//Problem: 2.9 Euler Path
+//Problem: Euler Path
 //The objective is to find a path that visits every edge exactly once.
 //Algorithm: Hierholzer’s algorithm
 // Time complexity: O(E + V) where V is the number of vertices and E the number of edges.
