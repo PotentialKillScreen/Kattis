@@ -1,5 +1,5 @@
 //Author: Axel Ahlqvist
-//Problem: 4.1 Polygon area 
+//Problem: Polygon area 
 //Calculates an the area of a polygon given its points
 //Algorithm: 
 //Time complexity: O(N)
