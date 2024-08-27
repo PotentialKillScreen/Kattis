@@ -1,5 +1,5 @@
 //Author: Axel Ahlqvist
-//Problem: 1.3 Longest Increasing Subsequence 
+//Problem: Longest Increasing Subsequence 
 //Finding the longeest sequence of increasing integers in a sequence of integers.
 //Algorithm: Dynamic programming and binary search
 //Time complexity: O(n log n) where n is the number of integers in the input sequence.
