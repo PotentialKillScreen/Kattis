@@ -1,5 +1,5 @@
 // Author: Axel Ahlqvist
-// Problem: 4.8 Point Sets - Maximal Set of Colinear Points
+// Problem: Point Sets - Maximal Set of Colinear Points
 // The objective is to find the largest set of points that are colinear.
 // Algorithm: Using slope calculations to determine colinearity.
 // Time complexity: O(n^2 log n) where n is the number of points.
