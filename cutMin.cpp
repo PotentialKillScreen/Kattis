@@ -1,5 +1,5 @@
 //Author: Axel Ahlqvist
-//Problem: 2.7 Minimal Cut
+//Problem: Minimal Cut
 //The objectiv is to find a subgraph containing the start node but not
 //the end node with smalles total flow to the rest of the original graph.
 //Algorithm:Edmonds-Karp algorithm
