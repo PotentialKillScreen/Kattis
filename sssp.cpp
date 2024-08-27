@@ -1,5 +1,5 @@
 //Author: Axel Ahlqvist
-//Problem: 2.2 Single Source Shortest Path: Time Table Graphs
+//Problem: Single Source Shortest Path: Time Table Graphs
 //Algorithm: Djikstra's Algorithm
 //Time complexity: O((N+Q)LOG(N)) Where N is the number of vertices and Q The number of edges. 
 #include <iostream>
