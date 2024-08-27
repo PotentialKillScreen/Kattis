@@ -1,5 +1,5 @@
 // Author: Axel Ahlqvist
-// Problem: 4.3 Intersection of Line Segments
+// Problem: Intersection of Line Segments
 // The objective is to find the point or line that intersects two line segments.
 // Algorithm: Orientation and segment intersection
 // Time complexity: O(1) per segment pair check, O(n) for processing n pairs
