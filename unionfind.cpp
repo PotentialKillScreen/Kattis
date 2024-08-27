@@ -1,5 +1,5 @@
 //Author: Axel Ahlqvist
-//Problem: 1.4 Union-Find Longest Increasing Subsequence 
+//Problem: Union-Find Longest Increasing Subsequence 
 //A datastructure that implements the operations merge, same and find
 //Algorithm: Disjoint set union (DSU)
 //Time complexity: O(Q log N) where Q is the number of operations and 
