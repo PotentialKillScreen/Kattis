@@ -1,5 +1,5 @@
 //Author: Axel Ahlqvist
-//Problem: 1.2 Knapsack 
+//Problem: Knapsack 
 //Finding the items that maximizes value given limited packing capacity
 //Algorithm: Dynamic programming
 //Time complexity: O(number_of_items * capacity)
