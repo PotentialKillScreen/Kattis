@@ -1,5 +1,5 @@
 //Author: Axel Ahlqvist
-//Problem: 1.1 Interval Cover
+//Problem: Interval Cover
 //Finding a minimum number of intervals that covers an objective interval
 //Algorithm: Greedy algorithm
 //Time complexity: O(NlogN)
