@@ -1,5 +1,5 @@
 //Author: Axel Ahlqvist
-//Problem: 3.4 Rational Arithmetic 
+//Problem: Rational Arithmetic 
 //Functionality to handle rational arithmetic from command line inputs
 //Algorithm: The Euclidean algorithm. (For finding gcd) 
 #include<bits/stdc++.h>
