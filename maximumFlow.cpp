@@ -1,5 +1,5 @@
 //Author: Axel Ahlqvist
-//Problem: 2.6 Maximum Flow
+//Problem: Maximum Flow
 //Algorithm: Edmonds-Karp algorithm
 //Time complexity: O(VE^2) where V is the number of vertices and 
 //E the number of edges. 
