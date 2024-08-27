@@ -1,5 +1,5 @@
 //Author: Axel Ahlqvist
-//Problem: 2.8 Minimal cost maximum flow
+//Problem: Minimal cost maximum flow
 //The objectiv is to find the maximum flow from the start node to the end node
 //with the smallest possible cost.
 //Algorithm: Successive Shortest Path Algorithm using Bellman-Ford for finding shortest paths in residual graph
