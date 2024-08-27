@@ -1,5 +1,5 @@
 //Author: Axel Ahlqvist
-//Problem: 4.2 Point in Polygon 
+//Problem: Point in Polygon 
 //Calculates wheter a point is inside, outside or on the edge the polygon
 //Time complexity: O(N). N = Number of points in polygon.
 #include<bits/stdc++.h>
