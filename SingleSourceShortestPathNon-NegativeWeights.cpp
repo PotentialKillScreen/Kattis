@@ -1,5 +1,5 @@
 //Author: Axel Ahlqvist
-//Problem: 2.1 Single source shortest path, non-negative weights
+//Problem: Single source shortest path, non-negative weights
 //Finding the shortest path in a graph
 //Algorithm: Dijkstra
 //Time complexity: O(m log(n)) 
