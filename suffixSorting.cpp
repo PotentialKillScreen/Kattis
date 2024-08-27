@@ -1,5 +1,5 @@
 //Author: Axel Ahlqvist
-//Problem: 3.2 suffix sort
+//Problem: suffix sort
 //Data structure that sorts the the suffixes of a string in lexigraphical order
 //Algorithm: Suffix array
 //Time complexity: O(s log s) for contruction and O(1) for access
