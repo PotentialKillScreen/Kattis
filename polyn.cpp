@@ -1,5 +1,5 @@
 //Author: Axel Ahlqvist
-//Problem: 1.6 Polynomial multiplication 
+//Problem: Polynomial multiplication 
 //Algorithm: Fast Fourier Transform
 //Time complexity: O(N Log N) Where N is the order of the resulting polynomial
 
