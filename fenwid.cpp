@@ -1,5 +1,5 @@
 //Author: Axel Ahlqvist
-//Problem: 1.5 Prefix sums 
+//Problem: Prefix sums 
 //A datastructure that handles the operations add and number sum where number
 //sum returns the sum of the elements from 0 to the index given. 
 //Algorithm: Fenwick Tree
