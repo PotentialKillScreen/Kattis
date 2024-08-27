@@ -1,5 +1,5 @@
 // Author: Axel Ahlqvist
-// Problem: 4.5 Point Sets - Closest Pair of Points - Average Case
+// Problem: Point Sets - Closest Pair of Points - Average Case
 // The objective is to find the two closest points in a set of points.
 // Algorithm: Divide and Conquer
 // Time complexity: O(n log n) where n is the number of points.
