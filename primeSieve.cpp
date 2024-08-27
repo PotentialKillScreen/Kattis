@@ -1,5 +1,5 @@
 //Author: Axel Ahlqvist
-//Problem: 3.8 Prime Sieve
+//Problem: Prime Sieve
 //Finding all primes up to a given integer
 //Algorithm: Sieve of Eratosthenes
 //Time complexity: O(NloglogN)
