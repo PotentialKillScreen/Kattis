@@ -1,5 +1,5 @@
 // Author: Axel Ahlqvist
-// Problem: 3.3 Dvaput
+// Problem: Dvaput
 // The objective is to find the longest substring that appears at least twice in a string.
 // Algorithm: Suffix array construction and LCP (Longest Common Prefix) array computation.
 // Time complexity: O(n log n) for suffix array construction and O(n) for LCP array computation.
