@@ -1,5 +1,5 @@
 //Author: Axel Ahlqvist
-//Problem: 4.7 Convex Hull
+//Problem: Convex Hull
 //Given a set of points, the program calculates the points on the convex hull.
 //Algorithm: Graham's Scan
 //Time complexity: O(NLogN) where N is the number of points.
