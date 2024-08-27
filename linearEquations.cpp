@@ -1,5 +1,5 @@
 //Author: Axel Ahlqvist
-//Problem: 1.7 Linear Equation Systems with a Unique Solution
+//Problem: Linear Equation Systems with a Unique Solution
 //Algorithm: Guassian Elimination
 //Time complexity: O(N^3) Where N is the length of the quadratic matrix
 
