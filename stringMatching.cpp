@@ -1,5 +1,5 @@
 //Author: Axel Ahlqvist
-//Problem: 3.1 String matching
+//Problem: String matching
 //Finding all matches of a pattern in a string
 //Algorithm: Knuth-Morris-Pratt
 //Time complexity: O(text + pattern)
