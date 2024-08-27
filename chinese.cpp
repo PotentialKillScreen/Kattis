@@ -1,5 +1,5 @@
 //Author: Axel Ahlqvist
-//Problem: 3.6 Chinese remained theorem 
+//Problem: Chinese remained theorem 
 //Implements arithmetic modulo n 
 //Algorithm: Extended euclidian algorithm
 //Time complexity: O(log N)
