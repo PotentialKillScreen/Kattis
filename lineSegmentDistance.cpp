@@ -1,5 +1,5 @@
 // Author: Axel Ahlqvist
-// Problem: 4.4 Distance Between Line Segments
+// Problem: Distance Between Line Segments
 // The objective is to find the smallest distance between two line segments.
 // Algorithm: Segment intersection and projecting methods
 // Time complexity: (1) per segment pair.
